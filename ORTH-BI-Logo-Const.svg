@@ -30,13 +30,16 @@
       }
     </style>
     <clipPath id="clippath">
-      <polygon class="st0" points="1820 940 100 940 40 880 40 140 1880 140 1880 880 1820 940"/>
+      <polygon class="st0" points="3820 940 2100 940 2040 880 2040 140 3880 140 3880 880 3820 940"/>
     </clipPath>
     <clipPath id="clippath-1">
-      <polygon class="st0" points="3820 940 2100 940 2040 880 2040 140 3880 140 3880 880 3820 940"/>
+      <rect class="st0" x="160" width="1600" height="1080"/>
     </clipPath>
   </defs>
   <g class="st4">
+    <circle class="st2" cx="2269.89" cy="658.7" r="386.48"/>
+  </g>
+  <g class="st3">
     <g>
       <circle class="st1" cx="842.74" cy="608" r="156.35"/>
       <circle class="st1" cx="1077.26" cy="608" r="156.35"/>
@@ -48,9 +51,5 @@
       </g>
       <path class="st1" d="M960,205.77c-184.59,0-334.23,149.64-334.23,334.23s149.64,334.23,334.23,334.23,334.23-149.64,334.23-334.23-149.64-334.23-334.23-334.23Z"/>
     </g>
-  </g>
-  <rect class="st1" x="40" y="140" width="1840" height="800" rx="80" ry="80"/>
-  <g class="st3">
-    <circle class="st2" cx="2269.89" cy="658.7" r="386.48"/>
   </g>
 </svg>
