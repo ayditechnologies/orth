@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #647f5d;
+        stroke-width: 2px;
+      }
+
+      .st1, .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st2 {
+        stroke: #6c7380;
+        stroke-dasharray: 3 6 3 6;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="st0" points="1820 940 100 940 40 880 40 140 1880 140 1880 880 1820 940"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="st0" points="3820 940 2100 940 2040 880 2040 140 3880 140 3880 880 3820 940"/>
+    </clipPath>
+  </defs>
+  <g class="st4">
+    <g>
+      <circle class="st1" cx="842.74" cy="608" r="156.35"/>
+      <circle class="st1" cx="1077.26" cy="608" r="156.35"/>
+      <circle class="st1" cx="960" cy="404.9" r="156.35"/>
+      <g>
+        <circle class="st1" cx="631.49" cy="729.92" r="618.37"/>
+        <circle class="st1" cx="1288.51" cy="729.92" r="618.37"/>
+        <circle class="st1" cx="960" cy="160.93" r="618.37"/>
+      </g>
+      <path class="st1" d="M960,205.77c-184.59,0-334.23,149.64-334.23,334.23s149.64,334.23,334.23,334.23,334.23-149.64,334.23-334.23-149.64-334.23-334.23-334.23Z"/>
+    </g>
+  </g>
+  <rect class="st1" x="40" y="140" width="1840" height="800" rx="80" ry="80"/>
+  <g class="st3">
+    <circle class="st2" cx="2269.89" cy="658.7" r="386.48"/>
+  </g>
+</svg>
